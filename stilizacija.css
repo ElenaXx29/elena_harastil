@@ -1,0 +1,30 @@
+/* CSS Document */
+p {
+	color: magenta;
+	font-family: Constantia 'Lucida Bright', 'DejaVu Serif', Georgia 'Serif';
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: white;
+	padding: 20px;
+}
+h2, h3, h4 {
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, 'sans-serif';
+	color: cadetblue;
+	}
+	body {
+		background-image: url(slike/pozadina.jpg)
+	}
+a{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 3px solid pink;
+}
+a:hover {
+	background-color: darkgray;
+}
+img {
+	height: 200px
+}
